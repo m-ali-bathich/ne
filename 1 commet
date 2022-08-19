@@ -1,1 +1,103 @@
-ccdğ.dcvid.
+<!doctype html>
+<html lang="tr">
+
+<head>
+    <meta charset="UTF-8">
+    
+    
+    <title>Hakkında</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta3/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-eOJMYsd53ii+scO/bJGFsiCZc+5NDVN2yr8+0RDqr0Ql0h+rP48ckxlpbzKgwra6" crossorigin="anonymous">
+
+    <link rel="stylesheet" href="style.css">
+
+    
+</head>
+
+<body class="wt">
+    <div class="top-bk">
+        <nav>
+            <ul class="nav nav-pills justify-content-center">
+                <li class="nav-item">
+                    <a class="nav-link active" href="anasayfa.html">Hakkında</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="sehrim.html">Şehrim</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="mirasimiz.html">Mirasimiz</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="ilgialanlarim.html">İlgi Alanlarım</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="giris.html">Giriş Yap</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="iletisim.html">İletişim</a>
+                </li>
+            </ul>
+        </nav>
+    </div>
+    <header>
+        <div class="bg-dark text-light jumbotron">
+
+            <div class="col-md-6 px-0">
+                <div class="container">
+                    <h1 class="display-4 font-italic">
+                        yaşam bilgileri
+
+                    </h1>
+                    <p class="lead my-3">
+                        merhaba hayırlı günler dilerim bir az kendimi tanıtacam benim adım m.ali bathich. 2003 halep
+                        doğumluyum şamda yaşıyordum
+                    </p>
+                </div>
+            </div>
+
+        </div>
+    </header>
+    <main>
+
+        <div class="container">
+
+            <div +>
+
+                <p>
+                    evde en küçük çocuk bneim olduğum için abilerimin yoluyla bilgisiyara tanıştım ve o gun hayatım
+                    değişti çünkü bilgisayar benim hayatımda çok fark yaratı . Evimize bilgisayar oldukça erken girdiği
+                    için hayatımın her zaman oldukça önemli bir parçası oldu. Başlarda her çocuk gibi bilgisayar benim
+                    için yalnızca bir oyuncaktı. O günlerde sadece kırtasiyeden bulabildiğim oyunları oynuyabiliyordum.
+                </p>
+                <p>
+                    <img class='' src="img/anasayfa_buben.jpg">
+                </p>
+                <p><i class="text-center">Bu fotoğraf benim</i>
+                </p>
+                <br>
+                <br>
+                <p>
+                    hopilerim olarak bilgisayar,film,futbol,basktbol ve resim çizmek severdim Her klasik çocuk gibi bazı
+                    dönemlerimde futbol, bazı dönemlerimde basketbola ilgim oldu. Hatta bir dönem okulun basketbol
+                    takımında da oynadım. Ancak Football Manager'da çürüttüğüm binlerce saatten olsa gerek futbola bu
+                    günlerde pek hoş gözle bakamıyorum.
+                </p>
+                <p>
+                    Gitar, rubik küp, hikayemi anlatabiliceğim bir oyun yapımı (Bu hayalim hala devam ediyor), bir
+                    hikaye yazmak ve bunun gibi yüzlerce minik heves hevesimi aldıktan sonra uçup gidiyor. Ancak bu
+                    günlerde hiç de önceki heveslerime benzemeyen ve yaparken oldukça zevk aldığım bir hevesim var.
+                    Kendi yapay zeka asistanımı yazmak. Bunu evimde sürekli olarak çalışıcak bir raspberry pi ile
+                    kullanmayı düşünüyorum. İlk aşamada sadece evimde spotify dan müziklerimi açıp, bana önemli
+                    hatırlatmaları yapıcak asistanımı ileride tamamen mobil olarak taşıyabiliceğim minik bir cihaza
+                    dönüştürmek de hedeflerim arasında. Şimdilik sabis gibi sitelerden bildirim geldiğinde sesli bir
+                    şekilde okuyan kod üzerinde çalışıyorum.
+                </p>
+            </div>
+
+        </div>
+
+    </main>
+
+</body>
+
+</html>
